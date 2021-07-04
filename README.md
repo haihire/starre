@@ -1,5 +1,5 @@
 # starre
-kjs70701
+
 로딩할 때 필요한 것들
 
 Java/Splashscreen.java
